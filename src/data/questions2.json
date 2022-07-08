@@ -1,0 +1,41 @@
+[
+  {
+    "title": "'Which of the following is NOT a fundamental area of change regarding people's media habits?",
+    "options": ["conversation", "collaboration", "communication", "curation"],
+    "correctOptionIndex": 1,
+    "id": 1
+  },
+
+  {
+    "title": "A website that lets anyone add, edit, or delete pages of content is called a",
+    "options": ["wiki", "usenet", "social network", "lurker site"],
+    "correctOptionIndex": 1,
+    "id": 2
+  },
+
+  {
+    "title": "Today the most popular social networking site is",
+    "options": ["MySpace", "Twitter", "Facebook", "Synchronous motor"],
+    "correctOptionIndex": 1,
+    "id": 3
+  },
+
+  {
+    "title": "Creating a website or group that looks like it originated from concerned grassroots efforts of citizens is known as",
+    "options": ["trolling", "lurking", "phishing", "astroturfing"],
+    "correctOptionIndex": 1,
+    "id": 4
+  },
+
+  {
+    "title": "Two increasingly important ethical aspects of social media are",
+    "options": [
+      "transparency and privacy",
+      "ratings and traffic",
+      "identity and honesty",
+      "virtue and virality"
+    ],
+    "correctOptionIndex": 1,
+    "id": 5
+  }
+]
